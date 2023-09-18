@@ -11,8 +11,10 @@ solana_twitter = "8HQysmoxq6rfMKkhTnbQ6AVeu9nXKyC3PCea3DkQh5o9"
 [registry]
 url = "https://api.apr.dev"
 
+
+
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "/home/valter/.config/solana/id.json"
 
 [scripts]
